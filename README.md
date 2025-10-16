@@ -45,4 +45,9 @@ python3 visualize_metro.py test.city test.metromap -o case_001_viz.png
 
 
 ## RESULT
+
+### miniSAT test results
+![ss](./src/image.png)
+
+### Visualization
 ![result](./src/case_001_viz.png)
